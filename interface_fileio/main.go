@@ -1,3 +1,4 @@
+// go run main.go myfile.txt
 package main
 
 import (

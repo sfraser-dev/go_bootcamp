@@ -26,7 +26,7 @@ func printGreeting(b bot) {
 // englishBot implements the bot interface prototype and is thus a bot
 func (englishBot) getGreeting() string {
 	// very custom logic for generating engish greeting
-	return "Hi there"
+	return "Hello"
 }
 
 // spanishBot implements the bot interface prototype and is thus a bot

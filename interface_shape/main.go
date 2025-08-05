@@ -46,5 +46,5 @@ func (s square) getArea() float64 {
 
 func printArea(sh shape) {
 	a := sh.getArea()
-	fmt.Println("Area of square is:", a)
+	fmt.Println("Area of shape is:", a)
 }
